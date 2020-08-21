@@ -1,25 +1,14 @@
 ﻿1.0.0.4
-
 Приложение написано незрячими и для незрячих!
-
 Последняя версия всегда находится по ссылке 
-
 https://yadi.sk/d/-ZtuWdlZFstvaQ
-
 Для корректной работы программы в системе должны быть установлены библиотеки  .net framework 4.7.2.
-
 Офлайн установщик скачать с оф-сайта:
 https://support.microsoft.com/ru-ru/help/4054530/microsoft-net-framework-4-7-2-offline-installer-for-windows
-
 Приложение основано на библиотеках:
-
 YoutubeExplode
-
 https://github.com/Tyrrrz/YoutubeExplode
-
-и
-	BASS.NET
-
+и	BASS.NET
 http://bass.radio42.com/
 Кодировка в MP3 производится с помощью LAME MP3 Encoder:
 https://lame.sourceforge.io/
